@@ -1,3 +1,4 @@
 # Canvas Boilerplate
 
-My canvas boilerplate just the way I like it!
+A canvas boilerplate made for animations but will also work well for games.
+Includes a random colour generator and number generator between any number.
